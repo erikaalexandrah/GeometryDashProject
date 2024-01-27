@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{370b61a3-3a2f-9034-fefb-ff5653f76623}</ProjectGuid>
+    <ProjectGuid>{710ebd1b-944c-c976-6ea5-959be6cd7a11}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -309,10 +309,10 @@
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="ReportGeneratorMerged">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -681,82 +681,82 @@
      <HintPath>/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.EditorCoroutines.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>/Users/user/Desktop/GeometryDash/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>/Users/user/Desktop/GeometryDashProject/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="ConeMeshAssembly.csproj">
-      <Project>{ec622ae4-39c9-6917-4486-818568de97d5}</Project>
+      <Project>{51dbd451-7bac-802b-47c7-3a4f9e45dc2e}</Project>
       <Name>ConeMeshAssembly</Name>
     </ProjectReference>
     <ProjectReference Include="ConeMeshEditorAssembly.csproj">
-      <Project>{c1160c5e-487e-4f7e-6a84-e767b2dccc3c}</Project>
+      <Project>{9774d6ca-5594-7511-6e72-eb231666edff}</Project>
       <Name>ConeMeshEditorAssembly</Name>
     </ProjectReference>
   </ItemGroup>
